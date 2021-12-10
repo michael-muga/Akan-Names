@@ -16,3 +16,37 @@
     margin-right: 3em;
     text-align: center;
 }
+.section2 h3{
+    margin-left: 40%;
+    font-size: larger;
+}
+
+.form{
+    box-shadow: 2px 2px 1px rgb(61, 31, 61);
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3em;
+    
+}
+.form p{
+    margin-left: 2em;
+    color: rgb(61, 31, 61);
+    font-weight: bold;
+}
+.form form{
+    margin-left: 6em;
+} 
+.form form button{
+    margin-top: 3em;
+    margin-left: 6em;
+    margin-bottom: 3em;
+    width: 150px;
+    height: 30px;
+}
+.form form input{
+    margin-bottom: 1em;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
