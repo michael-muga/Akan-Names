@@ -24,6 +24,7 @@ To install or access this website you need:
 ### Installation Process
 
 Click on the link provided bellow to view the site.
+https://michael-muga.github.io/Akan-Names/
 ## Technology Used
 Html- used to structure this website
 Css- used to style the website
