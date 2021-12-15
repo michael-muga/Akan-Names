@@ -50,3 +50,10 @@
     display: grid;
     grid-template-columns: 1fr 3fr;
 }
+footer{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: black;
+    margin-top: 3em;
+}
