@@ -1,6 +1,6 @@
 function akanName(){
-    gender = document.getElementById("gender").nodeValue;
-    dob = parseInt( document.getElementById("DOB").nodeValue);
+    var gender = document.getElementById("gender").value;
+    var dob = document.getElementById("DOB").value;
     var then = new Date(dob)
     var theday = then.getDay();
     var date= then.getDate();
